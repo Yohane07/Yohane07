@@ -1,7 +1,7 @@
 # Hi there, i'm Yohane!
 
 <img align=left width=40% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yohane07&layout=compact">
-
+<img width=47% src="https://github-readme-stats.vercel.app/api?username=Yohane07&show_icons=true&theme=radical">
 
 
 ## *Learning*
